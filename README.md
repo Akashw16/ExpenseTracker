@@ -44,7 +44,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please contact [yourname@example.com](mailto:Akashwani.sit.comp@gmail.com).
+For any questions or suggestions, please contact [yourname@example.com](mailto: Akashwani.sit.comp@gmail.com).
 
 ## Live
 
